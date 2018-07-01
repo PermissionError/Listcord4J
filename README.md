@@ -1,2 +1,1 @@
-[![Release](https://jitpack.io/v/User/Repo.svg)]
-(https://jitpack.io/#TBNRShadowDev/Listcord4J)
+[![](https://jitpack.io/v/tbnrshadowdev/listcord4j.svg)](https://jitpack.io/#tbnrshadowdev/listcord4j)
